@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Board
+comment0.text=\r\n\ This\ is\ the\ Board,\ from\ here\ the\ matrix\ object\ will\ be\ called\ using\ getMatrix()\ and\ will\ be\ painted\ accordingly.\ \r\n
+comment1.params=event
+comment1.target=void\ NextGenButtonPressed(javafx.event.ActionEvent)
+numComments=2
